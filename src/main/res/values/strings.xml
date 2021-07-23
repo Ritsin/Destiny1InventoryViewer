@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DestinyCompanionApp</string>
+    <string-array name="charecter_array">
+        <item><![CDATA[<font color="#FFFFFF">Character 1</font>]]></item>
+        <item><![CDATA[<font color="#FFFFFF">Character 2</font>]]></item>
+        <item><![CDATA[<font color="#FFFFFF">Character 3</font>]]></item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_Ove">OverviewItemsActivity</string>
+    <string name="title_activity_Wea">WeaponActivity</string>
+    <string name="title_activity_Arm">ArmorActivity</string>
+    <string name="title_activity_overview_items2">OverviewItems2</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_overview_inventory">OverviewInventory</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Weapons</string>
+    <string name="tab_text_3">Armor</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_weapons">Weapons</string>
+    <string name="nav_armor">Armor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
